@@ -27,7 +27,7 @@ importers:
         specifier: ^9.18.0
         version: 9.22.0
       eslint-plugin-svelte:
-        specifier: ^3.0.0
+        specifier: ^3.0.3
         version: 3.0.3(eslint@9.22.0)(svelte@5.22.6)
       globals:
         specifier: ^16.0.0
